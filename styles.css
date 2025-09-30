@@ -8,18 +8,4 @@ header>h1{
 	text-align: center;
 	padding: 10px;
 }
-nav>ul{
-	display: flex;
-	justify-content: space-evenly;
-	background-color: black;
-	padding: 10px;
-}
-nav>ul>li{
-	list-style-type: none;
-	font-size: 20px;
-	font-weight: 300;
-}
-nav>ul>li>a{
-	color: white;
-	text-decoration: none;
-}
+
